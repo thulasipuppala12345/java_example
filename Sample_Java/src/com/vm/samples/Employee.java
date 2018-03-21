@@ -1,7 +1,7 @@
 package com.vm.samples;
 
 public class Employee {
-	
+	double salary;
 	String name;
 	int id;
 	public String getName() {
