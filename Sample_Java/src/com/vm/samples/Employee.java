@@ -17,4 +17,9 @@ public class Employee {
 		this.id = id;
 	}
 
+	
+	void show()
+	{
+		
+	}
 }
